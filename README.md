@@ -6,7 +6,7 @@ The QR Code Scanner App is a python based application that allows users to scan 
 
 FEATURES:
 
-Scan QR Codes From Webcam: Use a connected webcam to scan QR Codes in real time
+Scan QR Codes From Webcam: Use a connected webcam to scan QR Codes in real time.
 
 TECHNOLOGIES USED:
 
